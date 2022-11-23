@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Umar Tanwar</h1>
-<h3 align="center">A passionate coder with a zeal to learn new technologies</h3>
+<h3 align="center">A passionate coder with zeal to learn new technologies</h3>
 
 <!--
 **UmarTanwar3527/UmarTanwar3527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
