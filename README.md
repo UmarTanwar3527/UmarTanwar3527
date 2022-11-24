@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **umartanwar2753@gmail.com**
 
-- ⚡ Fun fact **I Enjoy Driving!!**
+- ⚡ Fun fact **I Enjoy Playing Video Games!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
