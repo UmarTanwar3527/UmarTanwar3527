@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umartanwar3527&label=Profile%20views&color=0e75b6&style=flat" alt="umartanwar3527" /> </p>
 
-- 🔭 I’m currently working on [Milk-Quality-Prediction](https://github.com/UmarTanwar3527/Milk-Quality-Prediction-ML-LAB)
+- 🔭 I’m currently working on [djangoproject1](https://github.com/UmarTanwar3527/djangoproject1)
 
 - 🌱 I’m currently learning **django and DSA**
 
