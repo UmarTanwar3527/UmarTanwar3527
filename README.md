@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umartanwar3527&label=Profile%20views&color=0e75b6&style=flat" alt="umartanwar3527" /> </p>
 
-- 🔭 I’m currently working on [
-djangocontactusproject](https://github.com/UmarTanwar3527/djangoproject1)
+- 🔭 I’m currently working on [django-contactus-project](https://github.com/UmarTanwar3527/django-contactus-project)
 
 - 🌱 I’m currently learning **django and DSA**
 
