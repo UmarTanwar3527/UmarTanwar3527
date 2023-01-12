@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I Enjoy Playing Video Games!!**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umartanwar3527&label=Profile%20views&color=0e75b6&style=flat" alt="umartanwar3527" /> </p>
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umartanwar3527" alt="umartanwar3527" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
