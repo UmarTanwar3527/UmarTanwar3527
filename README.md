@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [django-contactus-project](https://github.com/UmarTanwar3527/django-contactus-project)
 
-- 🌱 I’m currently learning **learning django and DSA**
+- 🌱 I’m currently learning **django and DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/UmarTanwar3527?tab=repositories](https://github.com/UmarTanwar3527?tab=repositories)
 
