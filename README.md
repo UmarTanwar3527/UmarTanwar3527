@@ -3,15 +3,15 @@
 <h3 align="center">A Passionate coder with zeal to learn new Technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-- 🔭 I’m currently working on [django-contactus-project](https://github.com/UmarTanwar3527/django-contactus-project)
+<!-- - 🔭 I’m currently working on [django-contactus-project](https://github.com/UmarTanwar3527/django-contactus-project) -->
 
-- 🌱 I’m currently learning **django and DSA**
+- 🌱 I’m currently learning **Web Devlopment and DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/UmarTanwar3527?tab=repositories](https://github.com/UmarTanwar3527?tab=repositories)
 
 - 💬 Ask me about **data science and python**
 
-- 📫 How to reach me **umartanwar2753@gmail.com**
+- 📫 How to reach me **umartanwar01@gmail.com**
 
 - ⚡ Fun fact **I Enjoy Playing Video Games!!**
 <br>
