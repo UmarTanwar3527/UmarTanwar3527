@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **umartanwar01@gmail.com**
 
-- ⚡ Fun fact **I Enjoy Playing Video Games!!**
+- ⚡ Fun fact **I Enjoy Playing Video Games & Clicking Portrait!!**
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umartanwar3527&label=Profile%20views&color=0e75b6&style=flat" alt="umartanwar3527" /> </p>
 <br>
