@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/UmarTanwar3527?tab=repositories](https://github.com/UmarTanwar3527?tab=repositories)
 
-- 💬 Ask me about **data science and python**
+- 💬 Ask me about **Data Science, Python and Flutter**
 
 - 📫 How to reach me **umartanwar01@gmail.com**
 
